@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #3ee8cf !important;
+}
+
+.add__new__btn__mobile__only {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: olive;
+    padding: 15px 10px;
+    z-index: 3;
+    margin-top: 100px;
+}
+
+button {
+    background-color: yellowgreen;
+}
